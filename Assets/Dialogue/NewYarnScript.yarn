@@ -1,0 +1,15 @@
+﻿title: VendingMachine
+position: 0,0
+---
+Player: Yeah!
+VendingMachine: What!?
+
+// -> a VendingMachine
+// -> Nothing
+// -> ...sorry
+
+Player: Player
+VendingMachine: VendingMachine
+
+VendingMachine: Move along
+===

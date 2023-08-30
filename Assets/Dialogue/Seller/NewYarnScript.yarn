@@ -1,0 +1,21 @@
+﻿title: Seller
+position: 0,0
+---
+Seller: Ragazzo benvenuto! cosa posso fare per te?
+// Player: Salve! sto cercando un lavoro
+// <<wait 0.4>>
+// Seller: Mi spiace ragazzo ma non cerco lavapiatti
+// Player: NO!
+// Player: Cerco un lavoro come pilota!
+
+// Seller: Ragazzo ma la sai pilotare una navetta?
+// -> Determinato
+//     Player: Certo! so pilotare e ho una navetta tutta mia!
+// -> Calmo
+//     Player: Ho ereditato una navetta e l'ho pilotata fin qui
+
+// Seller: Ok, ok, facciamo che quindi sai pilotare e hai una nave tua, a cosa ti serve un lavoro? 
+// Player: Ho bisogno di soldi, se no perché lavoro? 
+// Seller: Sei nei guai ragazzo? 
+Player: No, ho solo bisogno di un lavoro
+===
